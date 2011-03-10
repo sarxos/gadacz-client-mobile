@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="src" kind="src"/>
+	<classpathentry path="C:/JBuilderX/WTK23/lib/midpapi20.jar" kind="lib"/>
+	<classpathentry path="C:/JBuilderX/WTK23/lib/cldcapi10.jar" kind="lib"/>
+	<classpathentry path="bin" kind="output"/>
+</classpath>
